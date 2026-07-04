@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Large data files - not committed, see data/README.txt for how to regenerate
+data/cleaned_merged_crop_prices.csv
+data/merged_crop_prices.csv
+data/pakistan_crop_prices_dataset/
+
+scratchpad_vf3fuqvh.md
