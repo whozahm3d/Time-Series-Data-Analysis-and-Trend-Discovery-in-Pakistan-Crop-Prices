@@ -1,4 +1,4 @@
-# 🌾 Pakistan Crop Price Time-Series Analysis and Trend Discovery
+# 🌾 Time Series Data Analysis & Trend Discovery in Pakistan Crop Prices
 
 [![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
